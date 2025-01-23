@@ -9,13 +9,15 @@ void main() async {
   await EasyLocalization.ensureInitialized();
   storage = await SharedPreferences.getInstance();
   setup();
-  runApp(EasyLocalization(
-    supportedLocales: const [
-      Locale('en'),
-      Locale('ar'),
-    ],
-    path: 'assets/translate',
-    fallbackLocale: const Locale('en', 'ar'),
-    child: const MyApp(),
-  ));
+  runApp(
+    EasyLocalization(
+      supportedLocales: const [
+        Locale('en'),
+        Locale('ar'),
+      ],
+      path: 'assets/translate',
+      fallbackLocale: const Locale('en', 'ar'),
+      child: const MyApp(),
+    ),
+  );
 }
