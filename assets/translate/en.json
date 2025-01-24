@@ -1,14 +1,14 @@
 {
-    "NEXT": "Please choose your language",
-    "WELCOMEBACK" : "Welcome Back",
-    "E_MAIL" : "E-mail",
-    "PASSWORD" : "Password",
-    "FORGETPASSWORD" : "forget password",
-    "SIGNIN" : "Sign In",
-    "DONTHAVEANACCOUNT" : "Don`t have an accont",
-    "SIGNUP" : "Sign Up",
-    "ADDMEAL" : "Add Meal",
-    "KETCHEN" : "Ketchen",
-    "MENU" : "Menu",
-    "PROFILE" : "Profile"
+    "Please choose your language": "Please choose your language",
+    "Welcome Back" : "Welcome Back",
+    "E-mail" : "E-mail",
+    "Password" : "Password",
+    "forget password" : "forget password",
+    "Sign In" : "Sign In",
+    "Don`t have an accont" : "Don`t have an accont",
+    "Sign Up" : "Sign Up",
+    "Add Meal" : "Add Meal",
+    "Ketchen" : "Ketchen",
+    "Menu" : "Menu",
+    "Profile" : "Profile"
 }

@@ -11,7 +11,6 @@ class StringApp {
   String SIGNUP = "Sign Up".tr();
   String ADDMEAL = "Add Meal".tr();
   String KETCHEN = "Ketchen".tr();
-  String CHECKEN = "Checken Hint \n 200LE".tr();
   String MENU = "Menu".tr();
   String PROFILE = "Profile".tr();
 }

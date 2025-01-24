@@ -1,15 +1,15 @@
 {
-    "NEXT": "يرجى اختبار لغتك",
-    "WELCOMEBACK": "مرحبًا بعودتك",
-    "E_MAIL": "الإيميل",
-    "PASSWORD": "كلمة السر",
-    "FORGETPASSWORD": "هل نسيت كلمة السر؟",
-    "SIGNIN": "تسجيل الدخول",
-    "DONTHAVEANACCOUNT": "ليس لديك حساب؟",
-    "SIGNUP": "إنشاء حساب",
-    "ADDMEAL": "إضافة وجبة",
-    "KETCHEN": "المطبخ",
-    "CHECKEN": "السعر 200 جنيه",
-    "MENU": "اللائحة",
-    "PROFILE": "الحساب"
+    "Please choose your language": "يرجى اختبار لغتك",
+    "Welcome Back": "مرحبًا بعودتك",
+    "E-mai": "الإيميل",
+    "Password": "كلمة السر",
+    "forget password": "هل نسيت كلمة السر؟",
+    "Sign In": "تسجيل الدخول",
+    "Don`t have an accont": "ليس لديك حساب؟",
+    "Sign Up": "إنشاء حساب",
+    "Add Meal": "إضافة وجبة",
+    "Ketchen": "المطبخ",
+    "Menu": "اللائحة",
+    "Profile": "الحساب"
 }
+
